@@ -32,4 +32,5 @@ $ rails db:seed
 - tailwind-active_admin.config.js
 - config/initializers/active_admin.rb
 - app/javascript/active_admin_custom.js
+- lib/tasks/active_admin.rake
 ```
