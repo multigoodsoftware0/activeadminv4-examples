@@ -34,3 +34,7 @@ $ rails db:seed
 - app/javascript/active_admin_custom.js
 - lib/tasks/active_admin.rake
 ```
+
+### Watch screencast
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Cx4IIhxd64k/0.jpg)](https://www.youtube.com/watch?v=Cx4IIhxd64k)
