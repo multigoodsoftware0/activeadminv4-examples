@@ -275,9 +275,6 @@ ActiveAdmin.setup do |config|
 end
 
 ActiveAdmin.importmap.draw do
-  # pin 'chartkick', to: 'chartkick.js'
-  # pin 'Chart.bundle', to: 'Chart.bundle.js'
-
   pin "trix"
   pin "@rails/actiontext", to: "actiontext.esm.js"
   pin 'active_admin_custom', to: 'active_admin_custom.js'
